@@ -1,0 +1,122 @@
+﻿[2026-10-16 11:17:48.884][INFO][13320][230]App Version: 2026.10.13.0, Locale: zh_CN
+[2026-10-16 11:17:50.379][INFO][13320][377]Starting plugin framework...
+[2026-10-16 11:17:50.756][INFO][13320][412]E:/WorkSpace/innov3dworks-dev/Release/plugins/C3DCamTools.dll Install successful
+[2026-10-16 11:17:50.758][INFO][13320][430]E:/WorkSpace/innov3dworks-dev/Release/plugins/C3DCamTools.dll Start successful
+[2026-10-16 11:17:50.758][INFO][13320][412]E:/WorkSpace/innov3dworks-dev/Release/plugins/liborg_commontk_eventadmin.dll Install successful
+[2026-10-16 11:17:50.758][INFO][13320][430]E:/WorkSpace/innov3dworks-dev/Release/plugins/liborg_commontk_eventadmin.dll Start successful
+[2026-10-16 11:17:50.759][INFO][13320][412]E:/WorkSpace/innov3dworks-dev/Release/plugins/MeasureModule.dll Install successful
+[2026-10-16 11:17:50.787][INFO][13320][430]E:/WorkSpace/innov3dworks-dev/Release/plugins/MeasureModule.dll Start successful
+[2026-10-16 11:17:50.787][INFO][13320][412]E:/WorkSpace/innov3dworks-dev/Release/plugins/PhotographyMeasure.dll Install successful
+[2026-10-16 11:17:50.795][INFO][13320][430]E:/WorkSpace/innov3dworks-dev/Release/plugins/PhotographyMeasure.dll Start successful
+[2026-10-16 11:17:50.796][INFO][13320][412]E:/WorkSpace/innov3dworks-dev/Release/plugins/ProbeCommunicator.dll Install successful
+[2026-10-16 11:17:50.805][INFO][13320][430]E:/WorkSpace/innov3dworks-dev/Release/plugins/ProbeCommunicator.dll Start successful
+[2026-10-16 11:17:50.809][INFO][13320][412]E:/WorkSpace/innov3dworks-dev/Release/plugins/ScanningModules.dll Install successful
+[2026-10-16 11:17:50.819][INFO][13320][430]E:/WorkSpace/innov3dworks-dev/Release/plugins/ScanningModules.dll Start successful
+[2026-10-16 11:17:50.820][INFO][13320][412]E:/WorkSpace/innov3dworks-dev/Release/plugins/TrackingModule.dll Install successful
+[2026-10-16 11:17:50.847][INFO][13320][430]E:/WorkSpace/innov3dworks-dev/Release/plugins/TrackingModule.dll Start successful
+[2026-10-16 11:17:52.351][INFO][13320][84]MaxPreheatTime:40,MaxStablePreheatTime:10,StablePreheatTime:3,TempStableThreshold:1.000000
+[2026-10-16 11:17:53.111][INFO][13320][2092]GL_Type: OpenGL , GL_Version: 4.6.0 NVIDIA 596.58 , GL_Profile: CompatibilityProfile , GL_VENDOR: NVIDIA Corporation , GL_RENDERER: NVIDIA RTX A2000 8GB Laptop GPU/PCIe/SSE2 
+[2026-10-16 11:17:53.157][INFO][13320][435]Temperature_Compensate : >> Delta :20s, SurpportTempCompensate :1, bOpenPlayback : 0, ModelFileType :0, nTimeMinute :120, temp_sensor :1 , scanner_calib :1, heator :0, threshold_heating_2026 :5.000000, threshold_cooling_2026 :3.000000, threshold_heating_super :3.000000, threshold_cooling_super :2.000000, time_threshold :432000, auto_update_model :0
+[2026-10-16 11:17:53.157][INFO][13320][1203]MainWindow Load AppConfig
+[2026-10-16 11:17:53.183][ERROR][13320][518]Error: Cannot find this id in the XML: [node_name: ] [id: id_standardBarsManagement]
+[2026-10-16 11:17:53.183][ERROR][13320][518]Error: Cannot find this id in the XML: [node_name: ] [id: id_exportAppConfig]
+[2026-10-16 11:17:53.183][ERROR][13320][518]Error: Cannot find this id in the XML: [node_name: ] [id: id_defaultAppConfig]
+[2026-10-16 11:17:54.751][INFO][13320][2538]GL_Type: OpenGL , GL_Version: 4.6.0 NVIDIA 596.58 , GL_Profile: CompatibilityProfile , GL_VENDOR: NVIDIA Corporation , GL_RENDERER: NVIDIA RTX A2000 8GB Laptop GPU/PCIe/SSE2 
+[2026-10-16 11:17:55.803][ERROR][13320][518]Error: Cannot find this id in the XML: [node_name: ] [id: id_useCalibRT]
+[2026-10-16 11:17:55.803][ERROR][13320][518]Error: Cannot find this id in the XML: [node_name: ] [id: id_resampleMethod]
+[2026-10-16 11:17:55.816][INFO][7192][265]DeInitLinkAndOtherThread
+[2026-10-16 11:17:55.816][INFO][7192][5668]StopWirlessLinkLoop
+[2026-10-16 11:17:55.816][INFO][7192][302]Destory zgDeviceObjManage
+[2026-10-16 11:17:55.974][INFO][7192][75]Create Scan Task Success!
+[2026-10-16 11:17:55.974][INFO][7192][319]CreateObj zgDeviceObjManage
+[2026-10-16 11:17:55.974][INFO][7192][352]ReadConfigData LoadDeviceConfig _0 start.
+[2026-10-16 11:17:55.974][INFO][7192][259]ReadConfigData begin. filePath: C:\Users\hanjin.shang\AppData\Local\Innov3DStudio\Config\config.cfg
+[2026-10-16 11:17:55.975][INFO][7192][272]ReadConfigData LoadDeviceConfig _1.
+[2026-10-16 11:17:55.975][INFO][7192][286]ReadConfigData LoadDeviceConfig _2.
+[2026-10-16 11:17:55.976][INFO][7192][342]ReadConfigData LoadDeviceConfig _3.
+[2026-10-16 11:17:55.976][INFO][7192][397]ReadConfigData LoadDeviceConfig _4.
+[2026-10-16 11:17:55.977][INFO][7192][410]ReadControlMarkers 0, filePath: 
+[2026-10-16 11:17:55.977][INFO][7192][465]ReadConfigData LoadDeviceConfig _5.
+[2026-10-16 11:17:55.977][INFO][7192][608]DoCropping param. serial=20330048 camBase=3 camIop=3 camEop=3
+[2026-10-16 11:17:55.977][INFO][7192][621]DoCropping image size. L=1440x1080 R=1440x1080
+[2026-10-16 11:17:56.118][INFO][7192][96]Calculate_Ep_Param_With_Scale 1
+[2026-10-16 11:17:56.121][INFO][7192][803]DoCropping
+[2026-10-16 11:17:56.121][INFO][7192][478]ReadConfigData LoadDeviceConfig _6.
+[2026-10-16 11:17:56.144][INFO][7192][516]ReadConfigData LoadDeviceConfig _7.
+[2026-10-16 11:17:56.156][INFO][7192][354]ReadConfigData LoadDeviceConfig _0 end.
+[2026-10-16 11:17:56.157][INFO][7192][356]ReadConfigData LoadTrackerDefaultShutter _0 end.
+[2026-10-16 11:17:56.157][INFO][7192][362]ScannerSerial: 20330048
+[2026-10-16 11:17:56.166][INFO][7192][108]Update DeciveParam
+[2026-10-16 11:17:56.166][INFO][7192][706]UpdateConfigData success.
+[2026-10-16 11:17:56.167][INFO][7192][1118]DeInitEdgeFusion
+[2026-10-16 11:17:56.167][INFO][7192][1163]DeInitMeshProcess
+[2026-10-16 11:17:56.167][INFO][7192][10932]DeInitSessionAlgorithmLibrary
+[2026-10-16 11:17:56.167][INFO][7192][3042]DeInitMarvelImageResample
+[2026-10-16 11:17:56.167][INFO][7192][3148]DeInitMarvelMarkerMatch
+[2026-10-16 11:17:56.167][INFO][7192][3343]DeInitMarvelMarkAlign
+[2026-10-16 11:17:56.167][INFO][7192][3813]DeInitRigelSuperMarkerMatch
+[2026-10-16 11:17:56.167][INFO][7192][6338]DeInitZip
+[2026-10-16 11:17:56.167][INFO][7192][7545]DeInitMarkerAlign
+[2026-10-16 11:17:56.167][INFO][7192][6574]DeInitScannerImageResample
+[2026-10-16 11:17:56.167][INFO][7192][6863]DeInitScannerMarkerMatch
+[2026-10-16 11:17:56.167][INFO][7192][14750]DeInitSuperCalib
+[2026-10-16 11:17:56.167][INFO][7192][16558]DeInit  m_LaserMatch
+[2026-10-16 11:17:56.167][INFO][7192][16561]DeInit  m_pMatchPtPairOut
+[2026-10-16 11:17:56.167][INFO][7192][16563]DeInit  m_pMatch_errs
+[2026-10-16 11:17:56.167][INFO][7192][16566]DeInit  m_LasExtract
+[2026-10-16 11:17:56.167][INFO][7192][16569]DeInit  m_LaserMatchS2
+[2026-10-16 11:17:56.167][INFO][7192][16572]DeInit  m_LaserTranslator
+[2026-10-16 11:17:56.167][INFO][7192][16574]DeInitLaserMatch
+[2026-10-16 11:17:56.167][INFO][7192][8335]DeInitLaserCheck
+[2026-10-16 11:17:56.167][INFO][7192][8525]DeInitLaserFilter
+[2026-10-16 11:17:56.167][INFO][7192][10410]DeInitHoleMeasure
+[2026-10-16 11:17:56.167][INFO][7192][10898]DeInitDeviceAlgorithmLibrary
+[2026-10-16 11:17:56.181][INFO][7192][3030]InitMarvelImageResample
+[2026-10-16 11:17:56.386][ERROR][7192][3134]control_markers not exist
+[2026-10-16 11:17:56.388][INFO][7192][6323]InitZip
+[2026-10-16 11:17:56.539][INFO][7192][7520]InitMarkerAlign
+[2026-10-16 11:17:57.341][INFO][7192][16472]InitLaserMatch
+[2026-10-16 11:17:57.509][INFO][7192][8321]InitLaserCheck 1
+[2026-10-16 11:17:57.671][INFO][7192][8484]ZGAPI_LaserTempFilter Initialize
+[2026-10-16 11:17:58.125][INFO][7192][8501]ZGAPI_LaserMatchFilter Initialize
+[2026-10-16 11:17:58.134][WARN][7192][5002]L haso open failed: C:\Users\hanjin.shang\AppData\Local\Innov3DStudio\Config\20330048_L_203300481.haso
+[2026-10-16 11:17:58.134][WARN][7192][5003]R haso open failed: C:\Users\hanjin.shang\AppData\Local\Innov3DStudio\Config\20330048_R_203300482.haso
+[2026-10-16 11:17:58.166][INFO][7192][6559]InitScannerImageResample
+[2026-10-16 11:17:58.651][INFO][7192][6845]InitScannerMarkerMatch
+[2026-10-16 11:17:58.655][INFO][7192][10492]ClearHoleMeasure
+[2026-10-16 11:17:58.655][INFO][7192][10410]DeInitHoleMeasure
+[2026-10-16 11:17:59.076][INFO][7192][10393]InitHoleMeasure
+[2026-10-16 11:17:59.082][INFO][7192][10861]InitDeviceAlgorithmLibrary
+[2026-10-16 11:17:59.631][INFO][7192][8898]InitPointFusion
+[2026-10-16 11:18:00.143][INFO][7192][1102]InitEdgeFusion
+[2026-10-16 11:18:00.143][INFO][7192][10916]InitSessionAlgorithmLibrary
+[2026-10-16 11:18:00.143][INFO][7192][10798]ReInitAlgorithmLibrary: all
+[2026-10-16 11:18:00.143][INFO][7192][374]ReadConfigData 1.
+[2026-10-16 11:18:00.391][INFO][7192][5598]Make wirless obj is success
+[2026-10-16 11:18:00.394][INFO][7192][265]DeInitLinkAndOtherThread
+[2026-10-16 11:18:00.396][INFO][49768][435]Try Sync Config File With Scanner
+[2026-10-16 11:18:00.399][INFO][7192][237]InitLinkAndOtherThread
+[2026-10-16 11:18:02.827][ERROR][49768][258]Open scanner failed, error code: 2
+[2026-10-16 11:18:03.833][INFO][49768][435]Try Sync Config File With Scanner
+[2026-10-16 11:18:06.460][ERROR][49768][258]Open scanner failed, error code: 2
+[2026-10-16 11:18:07.470][INFO][49768][435]Try Sync Config File With Scanner
+[2026-10-16 11:18:09.994][ERROR][49768][258]Open scanner failed, error code: 2
+[2026-10-16 11:18:11.005][INFO][49768][435]Try Sync Config File With Scanner
+[2026-10-16 11:18:13.687][ERROR][49768][258]Open scanner failed, error code: 2
+[2026-10-16 11:18:14.698][INFO][49768][435]Try Sync Config File With Scanner
+[2026-10-16 11:18:17.296][ERROR][49768][258]Open scanner failed, error code: 2
+[2026-10-16 11:18:18.300][INFO][49768][435]Try Sync Config File With Scanner
+[2026-10-16 11:18:20.902][ERROR][49768][258]Open scanner failed, error code: 2
+[2026-10-16 11:18:21.910][INFO][49768][435]Try Sync Config File With Scanner
+[2026-10-16 11:18:24.316][ERROR][49768][258]Open scanner failed, error code: 2
+[2026-10-16 11:18:25.323][INFO][49768][435]Try Sync Config File With Scanner
+[2026-10-16 11:18:27.765][ERROR][49768][258]Open scanner failed, error code: 2
+[2026-10-16 11:18:28.771][INFO][49768][435]Try Sync Config File With Scanner
+[2026-10-16 11:18:31.292][ERROR][49768][258]Open scanner failed, error code: 2
+[2026-10-16 11:18:32.293][INFO][49768][435]Try Sync Config File With Scanner
+[2026-10-16 11:18:33.316][INFO][33464][300]GenerateMiniDump success: size: {2402325} bytes
+[2026-10-16 11:18:33.316][INFO][33464][304]Exception code: {3221225477}
+[2026-10-16 11:18:33.316][INFO][33464][115]Unhandled exception caught: {3221225477}
+[2026-10-16 11:18:35.546][ERROR][49768][258]Open scanner failed, error code: 2
+[2026-10-16 11:18:36.101][WARN][33464][476][CrashDumper] MyNtTerminateProcess - call stack (1 frames):
+[2026-10-16 11:18:36.108][WARN][33464][524][CrashDumper]   [0] RtlUserThreadStart (0x00007FFE4B41EE75) [ntdll.dll]
